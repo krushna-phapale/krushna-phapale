@@ -1,7 +1,4 @@
 
-
-
-
 ![MasterHead](https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg)
 <h1 align="center">Hi 👋, I'm Krushna Phapale</h1>
 <h3 align="center">Driven by Machine Learning , AWS Cloud Platform and Linux Scripting shaping the future with innovation!</h3>
