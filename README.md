@@ -2,12 +2,12 @@
 
 
 
-![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)
+![MasterHead](https://as2.ftcdn.net/v2/jpg/02/09/19/15/1000_F_209191528_GYzxi0vEm0fV8oyqIWbmkgEM2BH4X47e.jpg)
 <h1 align="center">Hi 👋, I'm Krushna Phapale</h1>
-<h3 align="center">A passionate cloud engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
+<h3 align="center">Driven by Machine Learning , AWS Cloud Platform and Linux Scripting shaping the future with innovation!</h3>
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQH5i_pk9_lOGw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697089776871?e=1732147200&v=beta&t=3qXu1YrsXWJLymb60nwca2kXPY_32wq6Htm8DBCNJy0">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-abk&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-abk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-abk&label=Profile%20views&color=0e75b6&style=flat" alt="krushna-phapale" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
