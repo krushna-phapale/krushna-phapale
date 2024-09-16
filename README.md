@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/krushna-phapale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krushna-phapale" height="30" width="40" /></a>
 <a href="https://www.instagram.com/krushnaphapale_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krushnaphapale_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/techster tech" target="blank"><img align="center" src=https://harshrb2424.github.io/svg-logos/svg-threads-light/" alt="krushnaphapale_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/techster tech" target="blank"><img align="center" src=https://camo.githubusercontent.com/d2616ea5e9e84ddfc64d5ea5df06db4b0562d49566bdd3bb2ad3a4a553b5586c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f746872656164732e737667" alt="krushnaphapale_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
