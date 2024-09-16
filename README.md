@@ -1,5 +1,5 @@
 
-![MasterHead](https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg)
+![MasterHead](https://infotech.tiesinstitute.com/wp-content/uploads/2024/03/aws-devops-banner.png)
 <h1 align="center">Hi 👋, I'm Krushna Phapale</h1>
 <h3 align="center">Driven by Machine Learning , AWS Cloud Platform and Linux Scripting shaping the future with innovation!</h3>
 <img align="right" alt="Coding" width="400" src="https://jnnce.ac.in/jnndemo/aiml.gif">
